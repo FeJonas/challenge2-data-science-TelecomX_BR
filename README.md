@@ -1,5 +1,6 @@
 
 📊 Análise de Evasão de Clientes (Churn) - Telecom X
+
 📌 Sobre o Projeto
 Este projeto de Data Science tem como objetivo identificar os principais fatores que influenciam a saída de clientes (churn) da empresa de telecomunicações fictícia Telecom X. A partir de uma análise exploratória de dados (EDA), buscamos gerar insights para melhorar a retenção de clientes.
 
@@ -7,6 +8,7 @@ Este projeto de Data Science tem como objetivo identificar os principais fatores
 Identificar padrões e variáveis associadas ao churn.
 Compreender o perfil dos clientes mais propensos à evasão.
 Propor ações estratégicas com base nos dados analisados.
+
 🗂 Dados Utilizados
 O dataset inclui informações sobre:
 
@@ -21,20 +23,23 @@ Telecom_X = [https://raw.githubusercontent.com/sthemonica/alura-voz/refs/heads/m
 Limpeza e padronização de dados.
 Conversão de variáveis para formatos adequados.
 Análise exploratória por meio de gráficos e estatísticas descritivas.
+
 📈 Exemplo de Visualização
 Gráfico de dispersão: Tempo de Permanência x Custo Mensal, com destaque para churn.
 
 💡
 
-Capturar
+
 💡 Principais Insights
 Contratos mensais apresentam maior risco de churn.
 Clientes recentes (tenure baixo) são mais propensos a sair.
 Serviços adicionais ajudam a reduzir churn.
+
 ✅ Recomendações
 Incentivar contratos mais longos.
 Criar programas de onboarding para novos clientes.
 Promover serviços complementares.
+
 ⚙️ Tecnologias Utilizadas
 Python
 Pandas
