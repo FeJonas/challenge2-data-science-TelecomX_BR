@@ -39,10 +39,6 @@ Promover serviços complementares.
 Python
 Pandas
 Seaborn, Matplotlib
-🚀 Como Executar o Projeto
-Clone o repositório:
-git clone https://github.com/DiegoSantosOP/ChalengerAluraStoreBR.git
-2.Navegue até o diretório do projeto:
 
 cd ChalengerAluraStoreBR
 3.Instale as dependências necessárias:
