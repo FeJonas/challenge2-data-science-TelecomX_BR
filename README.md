@@ -40,10 +40,4 @@ Python
 Pandas
 Seaborn, Matplotlib
 
-cd ChalengerAluraStoreBR
-3.Instale as dependências necessárias:
 
-pip install -r requirements.txt**
-4.Abra o notebook:
-
-jupyter notebook AluraStoreBr.ipynb
